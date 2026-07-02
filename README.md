@@ -14,7 +14,7 @@ This project is a Spring Boot REST API for managing student records. It demonstr
 
 ## Technologies Used
 
-- Java 21
+- Java 17
 - Spring Boot
 - Spring Data JPA
 - PostgreSQL
