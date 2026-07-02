@@ -1,4 +1,4 @@
-# Student Management System - Task 3
+# Student Management System - Task
 
 ## Project Overview
 
